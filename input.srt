@@ -1,0 +1,19 @@
+1
+00:01:19,430 --> 00:01:23,310
+Lorem ipsum dolor sit amet.
+
+2
+00:01:24,270 --> 00:01:25,800
+Ut enim ad minim veniam.
+
+3
+00:01:25,930 --> 00:01:28,950
+Excepteur sint occaecat cupidatat non proident.
+
+4
+00:01:30,370 --> 00:01:33,910
+quis nostrud exercitation ullamco laboris nisi.
+
+5
+00:01:35,980 --> 00:01:37,520
+Duis aute irure dolor in reprehenderit.
